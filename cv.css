@@ -1,0 +1,36 @@
+header{
+	text-align: center;
+	text-align-last: center;
+	margin: 0;	
+}
+
+html, body{
+	font-family: Comic Sans MS, Gadget, sans-serif;
+	margin: 0;
+}
+
+header img{
+	max-width: 100px;
+}
+
+h1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+h2{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.content{
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
